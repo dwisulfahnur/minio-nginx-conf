@@ -1,0 +1,4 @@
+MINIO_VOLUMES="/data/minio/"
+MINIO_OPTS="--address 0.0.0.0:9000"
+MINIO_ACCESS_KEY=<access_key>
+MINIO_SECRET_KEY=<secret_key>
